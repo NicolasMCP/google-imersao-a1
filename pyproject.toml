@@ -1,7 +1,7 @@
 [project]
-name = "google-colab"
+name = "google-imersao-a1"
 version = "0.1.0"
-description = "Google-Notebooks"
+description = "Imersão do Google e Alura Agentes de IA Aula 1"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
