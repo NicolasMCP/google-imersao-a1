@@ -1,0 +1,7 @@
+[project]
+name = "google-colab"
+version = "0.1.0"
+description = "Google-Notebooks"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
