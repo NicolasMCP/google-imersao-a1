@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Específicos
+"01.Imersao Agentes de IA - Alura e Google Gemini.ipynb"
+"02.Imersao Agentes de IA - Alura e Google Gemini.ipynb"
+"03.Imersao Agentes de IA - Alura e Google Gemini.ipynb"
