@@ -1,5 +1,7 @@
 # Google e Alura imersão de Agentes de IA
 
+![license1](https://img.shields.io/static/v1?label=License&message=MIT&color=orange)
+
 ## Alguns conhecimentos iniciais...
 
 ![Resultado:](saida-google-alura-agentes-ia.png)
